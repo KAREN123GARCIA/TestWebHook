@@ -16,7 +16,3 @@ This project demonstrates a simple WebHook endpoint using PHP.
 
 ## Use the WebHook
 Send a POST request to: http://localhost:8000
-
-## Screenshot
-![image](https://github.com/user-attachments/assets/4c0b57a2-7886-4644-b116-f06bfc301127)
-
